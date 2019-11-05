@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Testovaya_ochered",
+  "applicationTitle": "Testovaya_ochered",
+  "items": [
+    {
+      "link": null,
+      "menuName": "testovaya-ochered",
+      "caption": "Testovaya_ochered",
+      "title": "Testovaya_ochered",
+      "children": [
+        {
+          "link": "i-i-s-testovaya-ochered-участник-l",
+          "menuName": null,
+          "caption": "Участник",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

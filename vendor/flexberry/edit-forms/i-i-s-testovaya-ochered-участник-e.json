@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Участник",
+  "name": "IISTestovaya_ocheredУчастникE",
+  "className": "УчастникE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "участник",
+      "modelProjection": "УчастникE"
+    }
+  ]
+}
